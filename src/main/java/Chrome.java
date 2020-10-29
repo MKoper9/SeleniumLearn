@@ -30,4 +30,5 @@ public class Chrome {
         //close all the browsers qopened by selenium script
 //        driver.quit();
     }
+
 }
